@@ -48,6 +48,7 @@ export default class Content extends React.Component{
                             <div className="visit">/{item.visit_count}</div>
                             <div className="wenda">测试</div>
                             <Link to={'/'+item.id}><div>{item.title}</div></Link>
+                            <div className="tianshu">3天前</div>
                         </div>
                         
                     ))
