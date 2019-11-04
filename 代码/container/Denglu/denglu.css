@@ -1,0 +1,43 @@
+.group{
+    padding-top:20px;
+    margin-bottom: 20px;
+    margin-left:100px;
+}
+.input-xlarge{
+    margin-left:10px;
+    width:300px;
+    height:30px;
+}
+.denglu{
+    margin-left:150px;
+    margin-top:20px;
+    background-color:#fff;
+}
+.submit{
+    background-color:blue;
+    margin-right:10px;
+    width:52px;
+    height:30px;
+    color:#fff;
+    float:left;
+}
+.span1{
+    float: left;
+    padding: 1px 10px;
+    border: none;
+    margin: 0;
+    font-size: 14px;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+    letter-spacing: 2px;
+    box-shadow: none;
+    border-radius: 3px;
+    line-height: 2em;
+    vertical-align: middle;
+    color: #fff;
+    background-color: #5bc0de;
+}
+.all3{
+    background-color:#fff;
+    height:200px;
+}
