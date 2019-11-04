@@ -55,7 +55,7 @@ export default class Content extends React.Component{
                 }
                 {
                      <ul className="xiamian1">{
-                        [1,2,3,4,5,6,7,8].map((item)=>(
+                        [1,2,3,4,5,6,7,8,9,10].map((item)=>(
                             <Link to={'/home/all/'+item}> 
                                 <li key={item} className="xiamian">
                                     {item} 
