@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Header from'./components/Header';
 import Footer from'./components/Footer';
 import Right from'./components/Right';
-import {BrowserRouter as Router,Route,Switch,Redirect}from'react-router-dom';
+import {HashRouter as Router,Route,Switch,Redirect}from'react-router-dom';
 import Start from './container/Start/Start';
 import Home from './container/Home/Home';
 import Api from './container/Api/Api';
